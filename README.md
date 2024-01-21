@@ -48,4 +48,10 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 
 ## Rapidfire  
 - 🔭 Final Year Project [UMQEI](https://drive.google.com/drive/folders/1qAdpJlPymhNFFChpULAY9pptlGZUjehq?usp=drive_link)  
-<br/>  
+
+<br/>
+
+## Github Statistic
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deminyau&" alt="deminyau" /></p>
+
+<br/>
