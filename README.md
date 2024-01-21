@@ -46,7 +46,7 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 
 <br/>  
 
-## Rapidfire  
+## Experiences & Projects
 - 🔭 Final Year Project [UMQEI](https://drive.google.com/drive/folders/1qAdpJlPymhNFFChpULAY9pptlGZUjehq?usp=drive_link)  
 
 <br/>
