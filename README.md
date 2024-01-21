@@ -46,8 +46,16 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 
 <br/>  
 
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-<br />
+- 🔭 Final Year Project [UMQEI](https://drive.google.com/drive/folders/1qAdpJlPymhNFFChpULAY9pptlGZUjehq?usp=drive_link)  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
