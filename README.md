@@ -52,5 +52,3 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deminyau&" alt="deminyau" /></p>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/deminyau/deminyau/output/snake.svg" alt="Snake animation" />
