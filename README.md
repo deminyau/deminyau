@@ -48,6 +48,15 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 - Set up Slurm workload manager
 - Set up network file system
 
+<br/>
+
+## Internship
+- [Inistate](https://inistate.com/)
+- Implement and enhance existing automation web and API testing framework with NodeJS.
+- Implement framework to automate the process of testing email notification, document and studio (form designplatform) of web-based Inistate.
+- Create and perform automated web and API tests with Jest testing framework, expanding code coverage to exceed 80%.
+- Set up and maintain nodes in the CI/CD pipeline of Inistate with Jenkins.
+
 ## Github Statistic
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deminyau&" alt="deminyau" /></p>
 
