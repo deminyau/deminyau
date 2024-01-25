@@ -25,12 +25,32 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 
 <br/>  
 
-## Experiences & Projects
-- 🔭 Final Year Project [UMQEI](https://drive.google.com/drive/folders/1qAdpJlPymhNFFChpULAY9pptlGZUjehq?usp=drive_link)  
+## Projects
+- 🔭 Final Year Project [UMQEI](https://drive.google.com/drive/folders/1qAdpJlPymhNFFChpULAY9pptlGZUjehq?usp=drive_link)
+  
+<br/>
+
+## Hands On Expreience
+- 📄 Java Hands On Experience 1 [Donald Duck’s Digital Data Duct](https://github.com/deminyau/DonaldDuck)
+- 📄 Java Hands On Experience 2 [Always On Time Delivery](https://github.com/deminyau/AlwaysOnTimeDelivery)
+  
+<br/>
+
+## Networking
+- ⚡ Advanced Network Configuration and Set Up [Documentation](https://docs.google.com/document/d/1CxYOIWB4AkndryIDDe1OWTBzIrYminuJ/edit?usp=sharing&ouid=106295118294409772341&rtpof=true&sd=true)
 
 <br/>
+
+## Cloud
+- Apache web server
+- Set up Hadoop distributed file system
+- Set up HTCondor
+- Set up Slurm workload manager
+- Set up network file system
 
 ## Github Statistic
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deminyau&" alt="deminyau" /></p>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/deminyau/deminyau/output/snake.svg" alt="Snake animation" />
