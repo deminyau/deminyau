@@ -59,6 +59,21 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 
 <br/>
 
+## Badges & Certification
+- [AWS Academy Graduate](https://www.credly.com/badges/4c0d539a-4644-4251-8195-eb8dba939059/public_url)
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/006adf44-bac1-4588-9a23-3e39b4e273ca/public_url)
+- [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/b57ce5b4-9427-4228-90c0-6bc59ff2a820/public_url)
+- [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/101586a7-6139-4b48-92e4-604a496e8656/public_url)
+- [Network Security](https://www.credly.com/badges/a1d7da18-d982-4b64-944f-767e10c03d3b/public_url)
+
+<br/>
+
+## Competition
+- [Top 15 Finalist - USM Varsity Hackathon](https://drive.google.com/file/d/1MLzoU_2RYUt-MibtmQXjPENCNoFRVX5I/view?usp=sharing)
+- [2nd Runner-Up - UM Hackathon](https://drive.google.com/file/d/1m0UWYHOZVBSLLeWPwXcerK5lb2_kV0ok/view?usp=drive_link)
+
+<br/>
+
 ## Github Statistic
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deminyau&" alt="deminyau" /></p>
 
