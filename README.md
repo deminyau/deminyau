@@ -57,6 +57,8 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 - Create and perform automated web and API tests with Jest testing framework, expanding code coverage to exceed 80%.
 - Set up and maintain nodes in the CI/CD pipeline of Inistate with Jenkins.
 
+<br/>
+
 ## Github Statistic
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deminyau&" alt="deminyau" /></p>
 
