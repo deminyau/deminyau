@@ -70,7 +70,7 @@ I am a final year student/fresh graduate with a keen interest in web and app dev
 
 ## Competition
 - [Top 15 Finalist - USM Varsity Hackathon](https://drive.google.com/file/d/1MLzoU_2RYUt-MibtmQXjPENCNoFRVX5I/view?usp=sharing)
-- [2nd Runner-Up - UM Hackathon](https://drive.google.com/file/d/1m0UWYHOZVBSLLeWPwXcerK5lb2_kV0ok/view?usp=drive_link)
+- [2nd Runner-Up - UM Hackathon](https://drive.google.com/file/d/1OpMTESQdipQqjuxbJML5Xc_pr_K0Pm99/view?usp=sharing)
 
 <br/>
 
